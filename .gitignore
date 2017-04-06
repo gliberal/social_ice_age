@@ -1,0 +1,4 @@
+.idea/
+*.pyc
+diaspora/sauvegarde_diaspora.json
+twitter/tweets.csv
