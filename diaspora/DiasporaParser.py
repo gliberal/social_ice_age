@@ -56,6 +56,9 @@ class DiasporaParser:
     def get_statuses(self, min=0, max=0):
         return self.statuses
 
+    def get_shares(self, min=0, max=0):
+        return self.shares
+
 
 if __name__ == "__main__":
     print("Calling DiasporaParser manually")
